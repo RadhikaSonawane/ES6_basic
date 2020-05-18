@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    background: url('./img/img.jpg') no-repeat center fixed;     
+    background-size: cover;
+}
+
+li{
+    list-style: none;
+    text-align: left;
+}
+
+.container{
+    margin:0 auto;
+    margin-top: 100px;
+    border: 1px solid white;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.visual {
+    opacity: 1 !important;
+    border-radius: 10px;
+}
+
